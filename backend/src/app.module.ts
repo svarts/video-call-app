@@ -3,7 +3,6 @@ import { AppGateway } from './app.gateway';
 
 @Module({
   imports: [],
-  controllers: [],
   providers: [AppGateway],
 })
-export class AppModule {} 
+export class AppModule {}
